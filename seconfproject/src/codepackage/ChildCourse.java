@@ -11,4 +11,3 @@ public class ChildCourse  extends Course{
         this.name = name;
     }
 }
-git
